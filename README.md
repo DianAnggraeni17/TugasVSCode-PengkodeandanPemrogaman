@@ -15,14 +15,17 @@ Data penjualan ini akan digunakan untuk melakukan analisis untuk berbagai tujuan
 # Hasil Visualisasi Analisis Data
 ## Distribusi Penjualan Berdasarkan Jenis Kelamin
 ![Figure_1](https://github.com/DianAnggraeni17/TugasVSCode-PengkodeandanPemrogaman/assets/167199303/2d39306d-0c3c-405f-8412-c0658f9be678) 
+
 Pada diagram pertama yang menunjukkan distribusi penjualan berdasarkan jenis kelamin, terlihat bahwa penjualan antara pria dan wanita hampir sama, masing-masing dengan 5 transaksi. Hal ini menunjukkan bahwa tidak ada perbedaan signifikan dalam jumlah transaksi yang dilakukan oleh pria dan wanita.
 
 ## Total Penjualan Berdasarkan Jenis Barang
 ![Figure_2](https://github.com/DianAnggraeni17/TugasVSCode-PengkodeandanPemrogaman/assets/167199303/69b6b60d-233a-47be-9963-6f8448ea0e87) 
+
 Diagram kedua menampilkan total penjualan berdasarkan jenis barang. Dari diagram ini, terlihat bahwa penjualan televisi mendominasi dengan total penjualan yang sangat tinggi dibandingkan dengan barang lainnya yaitu sebesar 5 barang. Laptop juga memiliki total penjualan yang cukup signifikan, sedangkan kulkas dan mesin cuci memiliki total penjualan yang lebih rendah.
 
 ## Diagram Perbandingan Aktual dan Prediksi
 ![Figure_3](https://github.com/DianAnggraeni17/TugasVSCode-PengkodeandanPemrogaman/assets/167199303/9e9d5a8e-00da-4a1a-92ff-065017d0af39) 
+
 Diagram ketiga menunjukkan perbandingan antara nilai aktual dan prediksi dari model regresi yang telah dibuat. Terlihat bahwa ada perbedaan yang cukup besar antara nilai aktual dan prediksi. Hal ini menunjukkan bahwa model prediksi yang dibuat masih perlu perbaikan dan tuning parameter lebih lanjut untuk meningkatkan akurasinya.
 
 # Rekomendasi dan Langkah Selanjutnya
